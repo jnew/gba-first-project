@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#gba specific ignores
+#roms
+*.gba
+#saves
+*.sav
